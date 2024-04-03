@@ -1,0 +1,456 @@
+<mxfile host="app.diagrams.net" modified="2024-04-03T08:32:08.570Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="omS0NXxI7kNFWhWKEFBY" version="24.2.1" type="github" pages="9">
+  <diagram id="f8ujPaYc2sr6PV9kbCO4" name="Pagina-1">
+    <mxGraphModel dx="1386" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="03tzST1B1SwF9cy1VsOW-2" value="" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=#b0e3e6;strokeColor=#0e8088;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="10" y="20" width="820" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="10" y="150" width="140" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="690" y="150" width="140" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="10" y="420" width="820" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="03tzST1B1SwF9cy1VsOW-8" target="03tzST1B1SwF9cy1VsOW-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="03tzST1B1SwF9cy1VsOW-8" target="03tzST1B1SwF9cy1VsOW-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="80" />
+              <mxPoint x="160" y="30" />
+              <mxPoint x="330" y="30" />
+              <mxPoint x="330" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-8" value="Risveglio Celestine&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="20" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="03tzST1B1SwF9cy1VsOW-10" target="03tzST1B1SwF9cy1VsOW-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-10" value="Tutorial" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="190" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="03tzST1B1SwF9cy1VsOW-12" target="03tzST1B1SwF9cy1VsOW-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-12" value="Recupero del equipaggiamento base" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="360" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="03tzST1B1SwF9cy1VsOW-14" target="03tzST1B1SwF9cy1VsOW-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-14" value="Voci e visioni" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="530" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="03tzST1B1SwF9cy1VsOW-16" target="03tzST1B1SwF9cy1VsOW-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-16" value="Intro MC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="700" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="03tzST1B1SwF9cy1VsOW-18" target="03tzST1B1SwF9cy1VsOW-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-18" value="Primo Atto&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="700" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="03tzST1B1SwF9cy1VsOW-20" target="03tzST1B1SwF9cy1VsOW-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-20" value="Prima Prova&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="700" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="03tzST1B1SwF9cy1VsOW-22" target="03tzST1B1SwF9cy1VsOW-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-22" value="Seconda Prova&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="700" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="03tzST1B1SwF9cy1VsOW-24" target="03tzST1B1SwF9cy1VsOW-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-24" value="Terza Prova&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="360" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="03tzST1B1SwF9cy1VsOW-26" target="03tzST1B1SwF9cy1VsOW-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-26" value="Quarta Prova&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="20" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="03tzST1B1SwF9cy1VsOW-28" target="03tzST1B1SwF9cy1VsOW-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-28" value="Resurezzione" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="20" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="03tzST1B1SwF9cy1VsOW-30" target="03tzST1B1SwF9cy1VsOW-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-30" value="Quarto Atto&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="190" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="03tzST1B1SwF9cy1VsOW-32" target="03tzST1B1SwF9cy1VsOW-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-32" value="Secondo Atto&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="700" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="03tzST1B1SwF9cy1VsOW-34" target="03tzST1B1SwF9cy1VsOW-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-34" value="Terzo Atto&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="530" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="03tzST1B1SwF9cy1VsOW-36" target="03tzST1B1SwF9cy1VsOW-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-36" value="Morte" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="20" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="03tzST1B1SwF9cy1VsOW-38" target="03tzST1B1SwF9cy1VsOW-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-38" value="Vittoria" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="20" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="03tzST1B1SwF9cy1VsOW-39" value="La storia infinita&lt;br&gt;&lt;br&gt;Il gioco prende il concept di Saint Celestine di eterno ciclo di Sacrificio e Risoruzione.&lt;br&gt;Il core del gioco prevede due la specularità tra un Ascesa Virtuosa(Saint Celestine) e una Discesa Peccaminosa(MC) che conclude con la resurezzione di Celestine in aiuto al MC per salvare la storia (Deus Ex Machina) redimendo il protagonista.&lt;br&gt;&lt;br&gt;La &quot;storia&quot; è divisa in due filoni da due punti di vista diversi.&lt;br&gt;A) Saint Celestine: Il suo percorso prevede un Ascesa Virtuosa ossia una serie di prove che la testeranno in una o più virtù&lt;br&gt;B)MC: Il suo percorso prevede un Discesa Peccaminosa ossia un serie di atti che andranno a corrompere la sua anima.&lt;br&gt;&lt;br&gt;La resurezzione di Celestine indica il picco più alto e più basso per i rispetti personaggi.&amp;nbsp;&lt;br&gt;Da questo punto in poi Celestine andrà a sacrificare la suo virtù(eheh) per andare a redimere il nostro MC andando a culminare nel momento di sacrificio finale in cui morirà.&lt;br&gt;&lt;br&gt;La storia sarà a questo punto conclusa per il nostro MC dandogli una conclusione mentre la storia di Celestine continua in eterno andando a creare un trovare un altro MC&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="130" width="500" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Phylosophy" id="FGcby4OLTIPetcl2Lora">
+    <mxGraphModel dx="420" dy="216" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="D5YC7Isd-BrFSExAAXA_-1" value="Anger" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF1600;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="249" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-1" value="Le sette Virtù e i sette peccati Capitali&lt;br&gt;&lt;br&gt;Queste 7 coppie rappresentano il tema della storia che si andrà a creare e che saranno il centro della nostra trama.&lt;br&gt;Virtù: rappresentano il nostro obbiettivo ossia dove vogliamo arrivare. Sono azioni attive in cui Celestini dovrà provare di essere la rappresentazione di quella virtù per poter passare la sua prova.&lt;br&gt;Peccati: rappresentano quello da cui il nostro MC dovrà salvarsi. Sono situazioni in cui il nostro personaggio dovrà subire(80%)/fare(20%) il peccato e tutto ciò lo porterà sempre di più a scendere nel abisso." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry width="827" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-2" value="Patiance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9FC491;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="459" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-4" value="Discord" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF1600;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="249" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-5" value="Greed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF1600;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="249" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-9" value="Humility" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9FC491;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="459" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-10" value="Chastity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9FC491;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="459" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-11" value="Faith" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9FC491;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="459" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-12" value="Selflesness" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9FC491;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="459" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-13" value="Sobrarity" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9FC491;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="459" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-14" value="Concordia" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9FC491;strokeColor=#3A5431;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="459" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-15" value="Pride" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF1600;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="249" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-16" value="Lust" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF1600;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="249" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-17" value="Idolatry" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF1600;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="249" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-18" value="Indulgence" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF1600;strokeColor=#B20000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="249" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-20" value="Non saper controllare le proprie emozioni e lasciarle prendere il sopravento sopra la logica" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="110" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-21" value="L&#39;incapacità di accettare i proprie errori, sapere chiedere scusa e ammettere di avere delle mancanze" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="200" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-22" value="L&#39;incapacità di limitare i propri desideri(carnali e non)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="300" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-23" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="400" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-24" value="Il desiderio di possedere cose/persone" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="500" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-25" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="600" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-26" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="700" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-27" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="110" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-28" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="200" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-29" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="300" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-30" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="400" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-31" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="500" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-32" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="600" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fG8b0wS3G1y2T_OprO06-33" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="700" width="230" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Backend Logico" id="1LOHG5INbGxa7VS-QOq_">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MJObYoYPRgSzwL7jhs5t-1" value="All &#39;inizio del gioco verrà determinato il tipo di storia&lt;br&gt;La determinazione sarà data in base al peccato/i che verrà selezionato e in base a cioè verranno creati gli atti e le prove e successivamente verrà creata la storia e per finire l&#39;ambientazione&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1" width="820" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MJObYoYPRgSzwL7jhs5t-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MJObYoYPRgSzwL7jhs5t-3" target="MJObYoYPRgSzwL7jhs5t-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MJObYoYPRgSzwL7jhs5t-3" value="Determinazione Virtù/Peccato" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MJObYoYPRgSzwL7jhs5t-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MJObYoYPRgSzwL7jhs5t-4" target="MJObYoYPRgSzwL7jhs5t-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MJObYoYPRgSzwL7jhs5t-4" value="Atti/Prove" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MJObYoYPRgSzwL7jhs5t-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MJObYoYPRgSzwL7jhs5t-5" target="MJObYoYPRgSzwL7jhs5t-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MJObYoYPRgSzwL7jhs5t-5" value="Storia" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MJObYoYPRgSzwL7jhs5t-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MJObYoYPRgSzwL7jhs5t-6" target="MJObYoYPRgSzwL7jhs5t-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MJObYoYPRgSzwL7jhs5t-6" value="Ambientazione" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MJObYoYPRgSzwL7jhs5t-7" value="Inizio partita" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="697" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ2dtBxQMG3h2gYuZJWW-1" value="Il salvataggio sarà possibile solo su determinati checkpoint.&lt;br&gt;Questi checkpoint saranno presentati alla fine di un atto subito dopo la scelta/prova" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry y="140" width="827" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ2dtBxQMG3h2gYuZJWW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wZ2dtBxQMG3h2gYuZJWW-2" target="wZ2dtBxQMG3h2gYuZJWW-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ2dtBxQMG3h2gYuZJWW-2" value="Inizio Atto" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ2dtBxQMG3h2gYuZJWW-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wZ2dtBxQMG3h2gYuZJWW-3" target="wZ2dtBxQMG3h2gYuZJWW-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ2dtBxQMG3h2gYuZJWW-3" value="l&#39;ambientazione mostra il peccato/dio che dovremo affrontare" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ2dtBxQMG3h2gYuZJWW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wZ2dtBxQMG3h2gYuZJWW-5" target="wZ2dtBxQMG3h2gYuZJWW-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ2dtBxQMG3h2gYuZJWW-5" value="crescita personale&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ2dtBxQMG3h2gYuZJWW-7" value="Ricompensa" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="697" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ2dtBxQMG3h2gYuZJWW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wZ2dtBxQMG3h2gYuZJWW-8" target="wZ2dtBxQMG3h2gYuZJWW-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ2dtBxQMG3h2gYuZJWW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wZ2dtBxQMG3h2gYuZJWW-8" target="wZ2dtBxQMG3h2gYuZJWW-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ2dtBxQMG3h2gYuZJWW-8" value="Scelta/La prova" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ2dtBxQMG3h2gYuZJWW-9" value="Danno a una delle due storie" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="697" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Ambientazione" id="tvYxWdoUEI6y9JyvF_0w">
+    <mxGraphModel dx="2049" dy="2249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tKqfT5P5H7tDjo4FntCT-1" value="Ambientazione&lt;br&gt;&lt;br&gt;Abbiamo tre tipi di ambientazione&lt;br&gt;Generica: l&#39;ambientazione che fa da filo conduttore a tutte le altre storie&lt;br&gt;Celestine: ambientazione del warp&lt;br&gt;MC: ambientazione della storia che sta vivendo l&#39;MC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry width="827" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tKqfT5P5H7tDjo4FntCT-2" value="Generica&lt;br&gt;&lt;br&gt;Il nostri protagonisti sono due fratelli/sorelle/migliori amici che devono continuamente rincarnarsi nella timeline(naruto/jojo).&lt;br&gt;Il mondo in cui si svilupperà la sessione sarà determinato dalla fase storica in cui siamo(assasins creed/jojo&lt;br&gt;).&lt;br&gt;La superAmbientazione è un incantesimo/bullshit che continua a riincarnare le persone creando due piani di realtà(warp).&lt;br&gt;Prendendo spunto da shanarra la timeline sarà invertità/non chiara/bullshit" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry y="90" width="827" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="tKqfT5P5H7tDjo4FntCT-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="780" width="827" height="389" as="geometry" />
+        </mxCell>
+        <mxCell id="mgvj6-VT5meODLk9qth--2" value="Celestine&lt;br&gt;Questa ambientazione presenta due tipi di ambiente: quella di base e quella specifica.&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry y="280" width="827" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="ChaosGod" id="s8E-Riy0FbjcHIuR4eI1">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PFUhc2cB015EvTiY9aJY-1" value="Peccati &amp;amp; Chaos God" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry width="827" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mZKxGCweuTzD2hG_1IKW-2" value="I sette peccati vengono più o meno identificati da uno dei quattro dei del chaos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry y="100" width="827" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Storia" id="ohhJmjge03Tu_gdhZ1gw">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IgYyct5msDJK9GdNrmQx-1" value="Storie:&lt;br&gt;&lt;br&gt;Le storie saranno tutti disastri/drammi della nostra storia reale e non.&amp;nbsp;&lt;br&gt;Verranò presentati in maniera drammatica/comica(il fatto è comico, e verra mascherato col dramma)&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="827" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IgYyct5msDJK9GdNrmQx-2" value="&lt;a href=&quot;https://bagniproeliator.it/la-nave-piu-pazza-del-mondo/&quot;&gt;La nave più pazza del mondo | Bagni Proeliator&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="240" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IgYyct5msDJK9GdNrmQx-3" value="&#xa;&lt;a href=&quot;https://bagniproeliator.it/karansebes-troppo-imbecilli-per-linferno/&quot;&gt;Karansebes: troppo imbecilli per l’Inferno | Bagni Proeliator&lt;/a&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="320" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IgYyct5msDJK9GdNrmQx-4" value="&#xa;&lt;a href=&quot;https://bagniproeliator.it/smettete-di-avere-la-diarrea-e-combattete-ve-lo-dice-il-baronetto/&quot;&gt;“Smettete di avere la diarrea e combattete, ve lo dice il baronetto” | Bagni Proeliator&lt;/a&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="560" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IgYyct5msDJK9GdNrmQx-5" value="&lt;a href=&quot;https://bagniproeliator.it/1944-la-guerra-di-citrullone/&quot;&gt;1944: la guerra di Citrullone | Bagni Proeliator&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="480" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IgYyct5msDJK9GdNrmQx-6" value="&lt;a href=&quot;https://bagniproeliator.it/kiska-il-piu-grande-disastro-navale-nella-storia-della-marina-militare-di-tutti-i-tempi/&quot;&gt;Kiska: il più grande disastro navale nella Storia della marina militare di tutti i tempi. | Bagni Proeliator&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="400" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IgYyct5msDJK9GdNrmQx-7" value="&lt;a href=&quot;https://bagniproeliator.it/il-cristo-i-carri-armati-melodie-tibetane-e-tanta-voglia-di-scopare/&quot;&gt;Il Cristo, i carri armati, melodie tibetane e tanta voglia di scopare | Bagni Proeliator&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="640" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IgYyct5msDJK9GdNrmQx-8" value="&lt;a href=&quot;https://bagniproeliator.it/la-bambina-nel-bosco-44/&quot;&gt;La bambina nel bosco (4/4) | Bagni Proeliator&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="800" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IgYyct5msDJK9GdNrmQx-9" value="&lt;a href=&quot;https://it.wikipedia.org/wiki/Isola_delle_Rose&quot;&gt;Isola delle Rose - Wikipedia&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="720" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IgYyct5msDJK9GdNrmQx-10" value="&lt;a href=&quot;https://bagniproeliator.it/kit-kat-e-big-dawg-una-storia-vera/&quot;&gt;Kit Kat e Big dawg: una storia vera | Bagni Proeliator&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="880" width="180" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Periodi storici" id="XmwMQxz-7A6n8l9osF1K">
+    <mxGraphModel dx="2049" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q0O_GhLv9Nm0B3N3V7_w-2" value="Medievale" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q0O_GhLv9Nm0B3N3V7_w-3" value="Gotico" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q0O_GhLv9Nm0B3N3V7_w-5" value="Rinascimento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q0O_GhLv9Nm0B3N3V7_w-6" value="Tempi attuali" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q0O_GhLv9Nm0B3N3V7_w-7" value="Preistoria" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q0O_GhLv9Nm0B3N3V7_w-8" value="Pre Mediovo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q0O_GhLv9Nm0B3N3V7_w-9" value="Futuro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="584.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q0O_GhLv9Nm0B3N3V7_w-12" value="Periodi storici.&lt;br&gt;&lt;br&gt;Serve a determinare l&#39;ambientazione per la storia.&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="827" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q0O_GhLv9Nm0B3N3V7_w-13" value="Guerre Mondiali" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Missioni" id="94OB3DdBIw3V9pIMIQxU">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tcK5YStLOyUdy9LBC26g-1" value="Fronte" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tcK5YStLOyUdy9LBC26g-2" value="Scorta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tcK5YStLOyUdy9LBC26g-3" value="Infiltrazione" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tcK5YStLOyUdy9LBC26g-5" value="Invistegativo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tcK5YStLOyUdy9LBC26g-6" value="Assedio Attivo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tcK5YStLOyUdy9LBC26g-7" value="Assedio Passivo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tcK5YStLOyUdy9LBC26g-8" value="Logistica" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tcK5YStLOyUdy9LBC26g-9" value="Missioni" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="827" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Magia o Tecnologia" id="AOUy3RxDhsWZQmTLD-9J">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QvUWdvC6e9Jm-LpLpBTX-1" value="Magia&lt;br&gt;&lt;br&gt;Naruto, World Of Warcraft, jjk,&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QvUWdvC6e9Jm-LpLpBTX-2" value="Tecnologia&lt;br&gt;&lt;br&gt;Cyberpunk, Warhammer, star trek, star wars" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QvUWdvC6e9Jm-LpLpBTX-3" value="Magia o Tecnologia&lt;br&gt;&lt;br&gt;Nell nostro mondo si hanno due ere: l&#39;era magica, dove sussite il classico concept di magia(alla fine e stamina), oppure l&#39;era tecnoogica in cui abbiamo il classico concept tecnologico&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="827" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
