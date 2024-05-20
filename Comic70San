@@ -1,9 +1,122 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T13:26:26.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.2.7" etag="F5Q2l5PJI3CPSX0llLKh" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-20T13:41:36.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="gUROmjpHdKL7EYtjJfD6" version="24.2.7" type="github">
   <diagram name="Pagina-1" id="-KUnmcxUnIlmtggXUpn4">
-    <mxGraphModel>
+    <mxGraphModel dx="1002" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sQQr6egITsbjLVcOM16Y-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sQQr6egITsbjLVcOM16Y-1" target="sQQr6egITsbjLVcOM16Y-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sQQr6egITsbjLVcOM16Y-1" target="sQQr6egITsbjLVcOM16Y-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-1" value="Scraper Online" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sQQr6egITsbjLVcOM16Y-3" target="sQQr6egITsbjLVcOM16Y-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sQQr6egITsbjLVcOM16Y-3" target="sQQr6egITsbjLVcOM16Y-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-3" value="Rivelamento Testo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sQQr6egITsbjLVcOM16Y-5" target="sQQr6egITsbjLVcOM16Y-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sQQr6egITsbjLVcOM16Y-5" target="sQQr6egITsbjLVcOM16Y-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-5" value="Traduzione" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sQQr6egITsbjLVcOM16Y-7" target="sQQr6egITsbjLVcOM16Y-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-7" value="Sostituzione Testo&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sQQr6egITsbjLVcOM16Y-11" target="sQQr6egITsbjLVcOM16Y-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-11" value="Individua le immagini dal sito&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sQQr6egITsbjLVcOM16Y-13" target="sQQr6egITsbjLVcOM16Y-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-13" value="Scarica le immagini" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-15" value="Salva le immagini in cartella" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sQQr6egITsbjLVcOM16Y-17" target="sQQr6egITsbjLVcOM16Y-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-17" value="Apri l&#39;immagine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sQQr6egITsbjLVcOM16Y-19" target="sQQr6egITsbjLVcOM16Y-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-19" value="Individua il bubble" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sQQr6egITsbjLVcOM16Y-21" target="sQQr6egITsbjLVcOM16Y-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-21" value="Salva i dati.&lt;br&gt;1) Numero la bubble&lt;br&gt;2) Salvo il testo su file json" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sQQr6egITsbjLVcOM16Y-23" target="sQQr6egITsbjLVcOM16Y-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-23" value="Apri il file di testo&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-25" value="Traduci e salva con la stessa struttura di testo&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sQQr6egITsbjLVcOM16Y-27" target="sQQr6egITsbjLVcOM16Y-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-27" value="Apro l&#39;img sbiancata" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sQQr6egITsbjLVcOM16Y-29" target="sQQr6egITsbjLVcOM16Y-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-29" value="Eseguo match id tra i due file(Originale, file JSON)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sQQr6egITsbjLVcOM16Y-31" target="sQQr6egITsbjLVcOM16Y-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-31" value="Scrivo il testo dentro la nuova bubble" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sQQr6egITsbjLVcOM16Y-33" target="sQQr6egITsbjLVcOM16Y-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQQr6egITsbjLVcOM16Y-33" target="sQQr6egITsbjLVcOM16Y-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="520" />
+              <mxPoint x="390" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-33" value="Sbianco la bubble&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-35" value="Salvo il file con le bubble salvate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQQr6egITsbjLVcOM16Y-39" value="Salvo la nuova img&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
