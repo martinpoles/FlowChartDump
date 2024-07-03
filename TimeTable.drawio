@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T15:11:49.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="NQs8LF9lheL0VnY-MnKT" version="24.6.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-07-03T16:00:34.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="rXdgc3sqovQLvCCOxLYr" version="24.6.4" type="github" pages="7">
   <diagram name="Generale" id="P90tmMBN_VCAZp8_OnAG">
     <mxGraphModel dx="1386" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -333,7 +333,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZTJcYybb4immnc4SCetG-1" value="Articoli" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="40" width="160" height="120" as="geometry" />
+          <mxGeometry x="200" y="40" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ZTJcYybb4immnc4SCetG-2" value="Oid" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZTJcYybb4immnc4SCetG-1">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -344,14 +344,20 @@
         <mxCell id="ZTJcYybb4immnc4SCetG-4" value="Oid_Autore" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZTJcYybb4immnc4SCetG-1">
           <mxGeometry y="90" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZTJcYybb4immnc4SCetG-16" value="Id_Path" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZTJcYybb4immnc4SCetG-1">
+          <mxGeometry y="120" width="160" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="ZTJcYybb4immnc4SCetG-6" value="Argomenti" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="40" width="160" height="90" as="geometry" />
+          <mxGeometry y="40" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ZTJcYybb4immnc4SCetG-7" value="Oid" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZTJcYybb4immnc4SCetG-6">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZTJcYybb4immnc4SCetG-8" value="Id_Argomento" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZTJcYybb4immnc4SCetG-6">
           <mxGeometry y="60" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZTJcYybb4immnc4SCetG-15" value="Ds_Argomento" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZTJcYybb4immnc4SCetG-6">
+          <mxGeometry y="90" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
