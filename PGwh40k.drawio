@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="26.2.3" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="26.2.3" pages="3">
   <diagram name="Leo" id="6f46E7SbXGQDmNwhQq9w">
     <mxGraphModel dx="1190" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,62 +62,62 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kGuqEsbPOKLRmjQvozuI" name="Vincenzo">
-    <mxGraphModel dx="680" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1428" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ckxi1ae2BtahFX0NgH6z-1" value="&lt;div&gt;Ambidextrous&lt;/div&gt;&lt;div&gt;AG 30&lt;/div&gt;&lt;div&gt;300 EXP&lt;/div&gt;&lt;div&gt;No penalità per due armi&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ckxi1ae2BtahFX0NgH6z-1" value="&lt;div&gt;Ambidextrous&lt;/div&gt;&lt;div&gt;AG 30&lt;/div&gt;&lt;div&gt;300 EXP&lt;/div&gt;&lt;div&gt;No penalità per due armi&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ckxi1ae2BtahFX0NgH6z-2" value="&lt;div&gt;Ferrous Summons&lt;/div&gt;&lt;div&gt;IMPLANTS&lt;/div&gt;&lt;div&gt;600 EXP&lt;/div&gt;&lt;div&gt;Evoca metallo&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ckxi1ae2BtahFX0NgH6z-2" value="&lt;div&gt;Ferrous Summons&lt;/div&gt;&lt;div&gt;IMPLANTS&lt;/div&gt;&lt;div&gt;600 EXP&lt;/div&gt;&lt;div&gt;Evoca metallo&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="40" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ckxi1ae2BtahFX0NgH6z-3" value="&lt;div&gt;Independent Targeting&lt;/div&gt;&lt;div&gt;BS 40&lt;/div&gt;&lt;div&gt;300 EXP&lt;/div&gt;&lt;div&gt;Spara a più target&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ckxi1ae2BtahFX0NgH6z-3" value="&lt;div&gt;Independent Targeting&lt;/div&gt;&lt;div&gt;BS 40&lt;/div&gt;&lt;div&gt;300 EXP&lt;/div&gt;&lt;div&gt;Spara a più target&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="200" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ckxi1ae2BtahFX0NgH6z-4" value="Bulging Biceps&lt;div&gt;S 45&amp;nbsp;&lt;/div&gt;&lt;div&gt;900 EXP&lt;/div&gt;&lt;div&gt;No penalità Heavy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ckxi1ae2BtahFX0NgH6z-4" value="Bulging Biceps&lt;div&gt;S 45&amp;nbsp;&lt;/div&gt;&lt;div&gt;900 EXP&lt;/div&gt;&lt;div&gt;No penalità Heavy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="200" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ckxi1ae2BtahFX0NgH6z-5" value="&lt;div&gt;Precision Killer&lt;/div&gt;&lt;div&gt;BS 40&lt;/div&gt;&lt;div&gt;300 EXP&lt;/div&gt;&lt;div&gt;Dichiara attacco&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ckxi1ae2BtahFX0NgH6z-5" value="&lt;div&gt;Precision Killer&lt;/div&gt;&lt;div&gt;BS 40&lt;/div&gt;&lt;div&gt;300 EXP&lt;/div&gt;&lt;div&gt;Dichiara attacco&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="200" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ckxi1ae2BtahFX0NgH6z-6" value="&lt;div&gt;Two-Weapon Wielder&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;300 EXP&lt;/div&gt;&lt;div&gt;Puoi avere due armi&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ckxi1ae2BtahFX0NgH6z-6" value="&lt;div&gt;Two-Weapon Wielder&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;300 EXP&lt;/div&gt;&lt;div&gt;Puoi avere due armi&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="200" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ckxi1ae2BtahFX0NgH6z-7" value="&lt;div&gt;Mighty Shot&lt;/div&gt;&lt;div&gt;BS 40&lt;/div&gt;&lt;div&gt;600 EXP&lt;/div&gt;più danni da sparo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ckxi1ae2BtahFX0NgH6z-7" value="&lt;div&gt;Mighty Shot&lt;/div&gt;&lt;div&gt;BS 40&lt;/div&gt;&lt;div&gt;600 EXP&lt;/div&gt;più danni da sparo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="360" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ckxi1ae2BtahFX0NgH6z-8" value="&lt;div&gt;Eye of Vengeance&lt;/div&gt;&lt;div&gt;BS 50&lt;/div&gt;&lt;div&gt;600 EXP&lt;/div&gt;&lt;div&gt;Fate point per piu danni&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ckxi1ae2BtahFX0NgH6z-8" value="&lt;div&gt;Eye of Vengeance&lt;/div&gt;&lt;div&gt;BS 50&lt;/div&gt;&lt;div&gt;600 EXP&lt;/div&gt;&lt;div&gt;Fate point per piu danni&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="360" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ckxi1ae2BtahFX0NgH6z-9" value="&lt;div&gt;Two-Weapon Master&lt;/div&gt;&lt;div&gt;AG 40, BS40&lt;/div&gt;&lt;div&gt;600 EXP&lt;/div&gt;&lt;div&gt;ancora meglio&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ckxi1ae2BtahFX0NgH6z-9" value="&lt;div&gt;Two-Weapon Master&lt;/div&gt;&lt;div&gt;AG 40, BS40&lt;/div&gt;&lt;div&gt;600 EXP&lt;/div&gt;&lt;div&gt;ancora meglio&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="360" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ckxi1ae2BtahFX0NgH6z-10" value="&lt;div&gt;Rapid Relod&lt;/div&gt;&lt;div&gt;300 EXP&lt;/div&gt;&lt;div&gt;bonus combattimento&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ckxi1ae2BtahFX0NgH6z-10" value="&lt;div&gt;Rapid Relod&lt;/div&gt;&lt;div&gt;300 EXP&lt;/div&gt;&lt;div&gt;bonus combattimento&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="40" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ckxi1ae2BtahFX0NgH6z-11" value="Caratteristiche" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ckxi1ae2BtahFX0NgH6z-11" value="Caratteristiche" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="520" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ckxi1ae2BtahFX0NgH6z-12" value="Ballistic Skill" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ckxi1ae2BtahFX0NgH6z-11">
+        <mxCell id="ckxi1ae2BtahFX0NgH6z-12" value="Ballistic Skill" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ckxi1ae2BtahFX0NgH6z-11" vertex="1">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ckxi1ae2BtahFX0NgH6z-13" value="Toughness" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ckxi1ae2BtahFX0NgH6z-11">
+        <mxCell id="ckxi1ae2BtahFX0NgH6z-13" value="Toughness" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ckxi1ae2BtahFX0NgH6z-11" vertex="1">
           <mxGeometry y="60" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ckxi1ae2BtahFX0NgH6z-14" value="Intelligence/Agility" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ckxi1ae2BtahFX0NgH6z-11">
+        <mxCell id="ckxi1ae2BtahFX0NgH6z-14" value="Intelligence/Agility" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ckxi1ae2BtahFX0NgH6z-11" vertex="1">
           <mxGeometry y="90" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ckxi1ae2BtahFX0NgH6z-15" value="Skill" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ckxi1ae2BtahFX0NgH6z-15" value="Skill" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="520" width="160" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ckxi1ae2BtahFX0NgH6z-16" value="Dodge" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ckxi1ae2BtahFX0NgH6z-15">
+        <mxCell id="ckxi1ae2BtahFX0NgH6z-16" value="Dodge" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ckxi1ae2BtahFX0NgH6z-15" vertex="1">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ckxi1ae2BtahFX0NgH6z-17" value="Awerness" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ckxi1ae2BtahFX0NgH6z-15">
+        <mxCell id="ckxi1ae2BtahFX0NgH6z-17" value="Awerness" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ckxi1ae2BtahFX0NgH6z-15" vertex="1">
           <mxGeometry y="60" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ckxi1ae2BtahFX0NgH6z-18" value="TechUse" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ckxi1ae2BtahFX0NgH6z-15">
+        <mxCell id="ckxi1ae2BtahFX0NgH6z-18" value="TechUse" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="ckxi1ae2BtahFX0NgH6z-15" vertex="1">
           <mxGeometry y="90" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
@@ -180,68 +180,6 @@
           <mxGeometry y="60" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yzPe6nUJ0t_f-weyU9es-18" value="Interogation" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="yzPe6nUJ0t_f-weyU9es-15">
-          <mxGeometry y="90" width="160" height="30" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="XIB_AEwjAf3CpyWDaQQZ" name="Matias">
-    <mxGraphModel dx="1428" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="OiF9O7NEWPynNw7Wvv0s-1" value="&lt;div&gt;Blind Fighting&lt;/div&gt;&lt;div&gt;PER 30&lt;/div&gt;&lt;div&gt;300 EXP&lt;/div&gt;&lt;div&gt;No penalità al buio&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OiF9O7NEWPynNw7Wvv0s-2" value="&lt;div&gt;Die Hard&lt;/div&gt;&lt;div&gt;WP 40&lt;/div&gt;&lt;div&gt;300 EXP&lt;/div&gt;&lt;div&gt;Test per salvare perdità sangue&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="40" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OiF9O7NEWPynNw7Wvv0s-3" value="&lt;div&gt;Battle Rage&lt;/div&gt;&lt;div&gt;Frenzy&lt;/div&gt;&lt;div&gt;900&amp;nbsp;EXP&lt;/div&gt;&lt;div&gt;parry quando frenzy&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="200" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OiF9O7NEWPynNw7Wvv0s-4" value="Counter Attack&lt;br&gt;&lt;div&gt;WS 40&amp;nbsp;&lt;/div&gt;&lt;div&gt;450 EXP&lt;/div&gt;&lt;div&gt;Dopo parry, attacco&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OiF9O7NEWPynNw7Wvv0s-5" value="&lt;div&gt;Devastating Assault&lt;/div&gt;&lt;div&gt;WS 40&lt;/div&gt;&lt;div&gt;300 EXP&lt;/div&gt;&lt;div&gt;allout attack = doppio attacco&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="200" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OiF9O7NEWPynNw7Wvv0s-6" value="&lt;div&gt;Killing Strike&lt;/div&gt;&lt;div&gt;WS 50&lt;/div&gt;&lt;div&gt;300 EXP&lt;/div&gt;&lt;div&gt;1 fate = colpo sicuro&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="200" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OiF9O7NEWPynNw7Wvv0s-7" value="&lt;div&gt;Hammer Blow&lt;/div&gt;&lt;div&gt;crushing blow&lt;/div&gt;&lt;div&gt;400 EXP&lt;/div&gt;più penetrazione" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="360" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OiF9O7NEWPynNw7Wvv0s-8" value="&lt;div&gt;Crushing Blow&lt;/div&gt;&lt;div&gt;WS 40&lt;/div&gt;&lt;div&gt;400 EXP&lt;/div&gt;&lt;div&gt;danni extra&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="360" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OiF9O7NEWPynNw7Wvv0s-9" value="&lt;div&gt;Preternatural Speed&lt;/div&gt;&lt;div&gt;AG 50, WS40&lt;/div&gt;&lt;div&gt;600 EXP&lt;/div&gt;&lt;div&gt;raddopia mov carica&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="360" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OiF9O7NEWPynNw7Wvv0s-10" value="&lt;div&gt;Frenzy&lt;/div&gt;&lt;div&gt;300 EXP&lt;/div&gt;&lt;div&gt;bonus combattimento&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="40" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OiF9O7NEWPynNw7Wvv0s-11" value="Caratteristiche" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="520" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="OiF9O7NEWPynNw7Wvv0s-12" value="Weapon Skill" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="OiF9O7NEWPynNw7Wvv0s-11">
-          <mxGeometry y="30" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OiF9O7NEWPynNw7Wvv0s-13" value="Toughness" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="OiF9O7NEWPynNw7Wvv0s-11">
-          <mxGeometry y="60" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OiF9O7NEWPynNw7Wvv0s-14" value="Agility" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="OiF9O7NEWPynNw7Wvv0s-11">
-          <mxGeometry y="90" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OiF9O7NEWPynNw7Wvv0s-15" value="Skill" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="520" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="OiF9O7NEWPynNw7Wvv0s-16" value="Parry" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="OiF9O7NEWPynNw7Wvv0s-15">
-          <mxGeometry y="30" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OiF9O7NEWPynNw7Wvv0s-17" value="Awerness" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="OiF9O7NEWPynNw7Wvv0s-15">
-          <mxGeometry y="60" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OiF9O7NEWPynNw7Wvv0s-18" value="Interogation" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="OiF9O7NEWPynNw7Wvv0s-15">
           <mxGeometry y="90" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
